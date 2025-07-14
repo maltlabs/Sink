@@ -31,6 +31,10 @@
     {
       "pattern": "sink.estudiojesuslopes.com.br",
       "custom_domain": true
+    },
+    {
+      "pattern": "linkss.estudiojesuslopes.com.br",
+      "custom_domain": true
     }
   ]
 }
