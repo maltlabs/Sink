@@ -35,6 +35,10 @@
     {
       "pattern": "linkss.estudiojesuslopes.com.br",
       "custom_domain": true
+    },
+    {
+      "pattern": "links.estudiojesuslopes.com.br",
+      "custom_domain": true
     }
   ]
 }
