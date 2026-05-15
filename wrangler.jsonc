@@ -39,6 +39,10 @@
     {
       "pattern": "links.estudiojesuslopes.com.br",
       "custom_domain": true
+    },
+    {
+      "pattern": "links.maltlabs.top",
+      "custom_domain": true
     }
   ]
 }
